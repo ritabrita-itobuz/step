@@ -24,3 +24,37 @@
 
 /* Demo Page styles */
 @import 'demo';
+.hero {
+    height: 646px;
+}
+
+.oldface {
+    top:25%;
+    right: 25%;
+
+}
+
+.stats {
+    height: 723px;
+}
+
+.consult {
+    // background-image: url("images/design/consult.png");
+    height:300px;
+}
+.free-consult {
+    padding-left: 112px;
+    padding-top: 100px;
+}
+.just-one-call {
+    padding-left: 112px;
+    padding-top: 30px;
+}
+.get-consult {
+    margin-left:1066px;
+    
+}
+
+.building {
+    padding-left: 528px;
+}
